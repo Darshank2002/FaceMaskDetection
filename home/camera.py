@@ -1,7 +1,6 @@
 
 from keras.models import load_model
-from imutils.video import VideoStream
-import imutils
+
 import cv2,os,urllib.request
 import numpy as np
 from django.conf import settings
