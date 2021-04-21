@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(252, 248, 224);
+}
+
+#MainFrame{
+    border-radius: 35px;
+    border: 10px solid rgb(243, 221, 94);
+   
+
+         box-shadow: 0 10px 6px -6px #777;
+}
